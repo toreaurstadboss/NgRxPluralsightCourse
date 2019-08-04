@@ -1,5 +1,9 @@
 # APM-Demo0
 
+Working repo for the ngrx course from Pluralsight - belongs to Angular path 
+
+- Adjustments for the course : Tore Aurstad
+
 Starter files with no NgRx added.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.
