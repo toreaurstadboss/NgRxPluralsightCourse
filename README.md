@@ -1,4 +1,10 @@
 # Angular-ngrx-GettingStarted
+
+Working repo for the ngrx course from Pluralsight - belongs to Angular path 
+
+- Adjustments for the course : Tore Aurstad
+
+
 Materials for NgRx course.
 
 `APM-Demo0`: The starter files for this course. **Use this to code along with the course**.
