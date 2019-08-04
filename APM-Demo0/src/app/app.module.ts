@@ -8,6 +8,8 @@ import { ProductData } from './products/product-data';
 
 import { AppRoutingModule } from './app-routing.module';
 
+import { StoreModule } from '@ngrx/store';
+
 import { AppComponent } from './app.component';
 import { ShellComponent } from './home/shell.component';
 import { MenuComponent } from './home/menu.component';
@@ -23,6 +25,7 @@ import { UserModule } from './user/user.module';
     HttpClientModule,
     HttpClientInMemoryWebApiModule.forRoot(ProductData),
     UserModule,
+    StoreModule.forRoot({}),
     AppRoutingModule
   ],
   declarations: [
